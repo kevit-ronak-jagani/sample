@@ -1,0 +1,24 @@
+From f5272baa2318eaa33d064c442c5243f8ad49059f Mon Sep 17 00:00:00 2001
+From: kevit-ronak-jagani <ronak.jagani@kevit.io>
+Date: Sat, 2 Sep 2023 13:11:34 +0530
+Subject: [PATCH] semicolan removed
+
+---
+ app1.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/app1.js b/app1.js
+index 953c60a..503ccb8 100644
+--- a/app1.js
++++ b/app1.js
+@@ -1,4 +1,4 @@
+ let a = 10;
+ let b = 10;
+ let c = 20;
+-console.log(a + b);
+\ No newline at end of file
++console.log(a + b)
+\ No newline at end of file
+-- 
+2.42.0.windows.1
+
