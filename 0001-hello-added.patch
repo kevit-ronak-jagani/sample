@@ -1,0 +1,25 @@
+From 3e61df09c26acb5673734568ffcd4f41f45a0643 Mon Sep 17 00:00:00 2001
+From: kevit-ronak-jagani <ronak.jagani@kevit.io>
+Date: Sat, 2 Sep 2023 15:01:36 +0530
+Subject: [PATCH] hello added
+
+---
+ app1.js | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/app1.js b/app1.js
+index 503ccb8..b3102ba 100644
+--- a/app1.js
++++ b/app1.js
+@@ -1,4 +1,5 @@
+ let a = 10;
+ let b = 10;
+ let c = 20;
+-console.log(a + b)
+\ No newline at end of file
++console.log(a + b)
++console.log("hello")
+\ No newline at end of file
+-- 
+2.42.0.windows.1
+
